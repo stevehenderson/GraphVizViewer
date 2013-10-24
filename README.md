@@ -2,6 +2,11 @@
 
 The GraphVizViewer is a simple application server that allows for the quick posting and rendering of graphviz dot files.
 
+![gallery view](https://raw.github.com/stevehenderson/GraphVizViewer/master/gvv1.png)
+
+![pan and zoom view](https://raw.github.com/stevehenderson/GraphVizViewer/master/gvv2.png)
+
+
 The viewer displays a a gallery of previously submitted dot files.  A user can then pan and zoom on rendered files, edit the files, and rerender.
 
 The user can also post a new dot file using a form.
